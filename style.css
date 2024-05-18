@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#abc {
+    height: 60px;
+    background-color: #0f1111;
+
+}
+#logo {
+    color: white;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: none;
+    color: azure;
+}
+    
