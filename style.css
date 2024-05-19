@@ -16,5 +16,34 @@ a {
     margin-right: 200px;
     text-decoration: none;
     color: azure;
+    padding: 8px 16px;
+}
+.id {
+    color: red;
+    text-decoration: dotted;
+}
+
+.but {
+    background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+.but:hover {
+    background-color: red;
+}
+
+#logo:hover {
+    background-color: yellow;
+}
+a:hover {
+    background-color: yellow;
 }
     
